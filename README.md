@@ -63,3 +63,5 @@
   <a href="[https://code.visualstudio.com/](https://www.jetbrains.com/idea/)" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" alt="intellij" width="40" height="40"/> </a>
 </p>
 
+---
+
