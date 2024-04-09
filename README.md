@@ -3,9 +3,13 @@
 
 ---
 
-- 🌱 I’m currently learning **Test automation with Selenium**
+- 🌱 I’m currently learning **Test automation with Selenium | Google Cloud Associate**
 
-- 📫 How to reach me **mihiranganayana@gmail.com**
+- 📫 How to reach me : **mihiranganayana@gmail.com**
+
+- ☁️ Google Cloud Skills Boost : **https://www.cloudskillsboost.google/public_profiles/e4102562-7db6-48e3-9c2c-cdcbcdb68419**
+
+- 🌐 Google Dev : **https://g.dev/nayanamihiranga**
 
 
 
