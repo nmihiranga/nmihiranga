@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nayana Mihiranga</h1>
 <h3 align="center">Highly motivated Undergraduate with a strong interest in Software Quality Assurance</h3>
 
+<p align="center">
+ <img width="1000" src="public/github-snake.svg" alt="snake"/>
+</p>
+
 ---
 
 - 🌱 I’m currently learning **Test automation with Selenium | Google Cloud Associate**
