@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nayana Mihiranga</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Nayana Mihiranga</h1>
 <h3 align="center">Highly motivated Undergraduate with a strong interest in Software Quality Assurance</h3>
 
 <p align="center">
