@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Test automation with Selenium | Google Cloud Associate**
+- 🌱 I’m currently learning **Test automation with Selenium | ISTQB (CTFL; Core)**
 
 - 📫 How to reach me : mihiranganayana@gmail.com
 
