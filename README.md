@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Nayana Mihiranga</h1>
-<h3 align="center">Highly motivated Undergraduate with a strong interest in Software Quality Assurance</h3>
+<h3 align="center">Software Quality Assurance - Intern | ISTQB® - (CTFL; Core)</h3>
 
 <p align="center">
  <img width="1000" src="public/github-snake.svg" alt="snake"/>
@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Test automation with Selenium | ISTQB (CTFL; Core)**
+- 🌱 I’m currently learning **Test automation with Selenium**
 
 - 📫 How to reach me : mihiranganayana@gmail.com
 
