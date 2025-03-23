@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Nayana Mihiranga</h1>
-<h3 align="center">Software Quality Assurance - Intern | ISTQB® - (CTFL; Core)</h3>
+<h3 align="center">Software Quality Assurance - Apprentice | ISTQB® - (CTFL; Core)</h3>
 
 <p align="center">
  <img width="1000" src="public/github-snake.svg" alt="snake"/>
